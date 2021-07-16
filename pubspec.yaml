@@ -1,0 +1,12 @@
+name: pf_flutter_core
+version: 1.0.0
+description: >-
+  Problem Fighter Flutter Core Package
+homepage: https://github.com/problemfighter/pf-flutter-core
+documentation: https://hmtmcse.com/df-lib/box/pf-flutter-core
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+dependencies:
+  http: ^0.13.3
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
